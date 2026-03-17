@@ -32,8 +32,7 @@ const nancy = {
   role: "Frontend Developer",
   currentProject: "ProTrack 🔗",
   learning: ["React ⚛️", "DSA 🧠"],
-  askMeAbout: ["Web Dev", "HTML/CSS", "JavaScript"],
-  funFact: "I turn ☕ into clean, pixel-perfect UIs",
+  askMeAbout: ["Problem Solving",Web Dev", "HTML/CSS", "JavaScript"],
   email: "nancygupta2912@gmail.com"
 };
 ```
