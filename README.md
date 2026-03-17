@@ -76,7 +76,7 @@ const nancy = {
 |---|---|---|
 | 🌱 | Currently learning | **React** & **Data Structures & Algorithms** |
 | 💡 | Exploring | Component architecture, hooks & state management |
-| 🎯 | 2025 Goal | Contribute to open source & level up DSA skills |
+| 🎯 | 2026 Goal | Contribute to open source & level up DSA skills |
 | 💬 | Ask me about | **Web Development** — HTML, CSS, JS, React |
 
 ---
