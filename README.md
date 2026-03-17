@@ -32,7 +32,7 @@ const nancy = {
   role: "Frontend Developer",
   currentProject: "ProTrack 🔗",
   learning: ["React ⚛️", "DSA 🧠"],
-  askMeAbout: ["Problem Solving",Web Dev", "HTML/CSS", "JavaScript"],
+  askMeAbout: ["Problem Solving","Web Dev", "HTML/CSS", "JavaScript"],
   email: "nancygupta2912@gmail.com"
 };
 ```
