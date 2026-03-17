@@ -21,7 +21,7 @@
 ---
 
 <!-- ABOUT ME SECTION -->
-<img align="right" alt="Coding GIF" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUzeDFpazZhaXdvMGd1dHZ1eDQyMDlxbmplZWpobTh6OHAyaHZkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
+<img align="right" alt="Coding GIF" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUzeDFpazZhaXdvMGd1dHZ1eDQyMDlxbmplZWpobTh6OHAyaHZkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 ### 🌟 About Me
 
